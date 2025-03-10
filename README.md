@@ -9,9 +9,7 @@
 
 <div><br /></div>
 
-<a href="https://github-readme-stats.vercel.app/api?username=Naohiro2g&count_private=true&show_icons=true&line_height=16&theme=buefy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Naohiro2g&count_private=true&show_icons=true&line_height=16&theme=buefy" />
-</a>
+
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Naohiro2g&langs_count=6&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naohiro2g&langs_count=6&layout=compact" />
 </a>
