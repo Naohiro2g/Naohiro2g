@@ -1,11 +1,15 @@
-### Coding, hacking, tinkering!
+### coding, hacking, tinkering!
 
+https://github.com/anuraghazra/github-readme-stats
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naohiro2g&repo=mc_remote-knowledge&owner=true)](https://github.com/Naohiro2g/mc_remote-knowledge)
 
 <!--
 https://github.com/anuraghazra/github-readme-stats
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naohiro2g&repo=minecraft_remote&owner=true)](https://github.com/Naohiro2g/minecraft_remote)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naohiro2g&repo=mc_remote-knowledge&owner=true)](https://github.com/Naohiro2g/mc_remote-knowledge)
 
 ![Naohiro2g's github stats](https://github-readme-stats.vercel.app/api?username=Naohiro2g&count_private=true&show_icons=true&line_height=16&theme=buefy)
 
