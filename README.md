@@ -1,9 +1,7 @@
 ### coding, hacking, tinkering!
 
-https://github.com/anuraghazra/github-readme-stats
+[![Naohiro2g's GitHub stats](https://github-stats-extended.vercel.app/api?username=Naohiro2g)](https://github.com/stats-organization/github-stats-extended)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naohiro2g&repo=mc_remote-knowledge&owner=true)](https://github.com/Naohiro2g/mc_remote-knowledge)
 
 <!--
 https://github.com/anuraghazra/github-readme-stats
