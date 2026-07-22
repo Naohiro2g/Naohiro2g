@@ -1,13 +1,5 @@
 ### Coding, hacking, tinkering!
 
-<a href="https://github.com/Naohiro2g/minecraft_remote">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Naohiro2g&repo=minecraft_remote&show_owner=true" />
-</a>
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Naohiro2g&langs_count=6&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naohiro2g&langs_count=6&layout=compact" />
-</a>
-
 
 <!--
 https://github.com/anuraghazra/github-readme-stats
