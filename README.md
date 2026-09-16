@@ -3,11 +3,11 @@
 [![Naohiro2g's GitHub stats](https://github-stats-extended.vercel.app/api?username=Naohiro2g)](https://github.com/stats-organization/github-stats-extended)
 -->
 
-![Profile Details](profile-summary-card-output/default/0-profile-details.svg)
-![Repos Per Language](profile-summary-card-output/default/1-repos-per-language.svg)
-![Most Commit Language](profile-summary-card-output/default/2-most-commit-language.svg)
-![Stats](profile-summary-card-output/default/3-stats.svg)
-![Productive Time](profile-summary-card-output/default/4-productive-time.svg)
+![Profile Details](profile-summary-card-output/github/0-profile-details.svg)
+![Repos Per Language](profile-summary-card-output/github/1-repos-per-language.svg)
+![Most Commit Language](profile-summary-card-output/github/2-most-commit-language.svg)
+![Stats](profile-summary-card-output/github/3-stats.svg)
+![Productive Time](profile-summary-card-output/github/4-productive-time.svg)
 
 <!--
 https://github.com/anuraghazra/github-readme-stats
