@@ -18,12 +18,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
-          USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "main"
-          UTC_OFFSET: 9           # 日本ならここを 9 にする
-          EXCLUDE: ""             # 除外言語（例：java,rust）
-          AUTO_PUSH: true
-          THEME: ""               # 空欄＝全テーマ生成
-          ANIMATION: "load"       # アニメーション（オプション）
-          DURATION: 3
-          NAME: ""                # 表示名（オプション）
+with:
+  USERNAME: ${{ github.repository_owner }}
+  NAME: ${{ github.repository_owner }}  # 表示名
+  BRANCH_NAME: "main"
+  UTC_OFFSET: 9           # 日本ならここを 9 にする
+  EXCLUDE: ""             # 除外言語（例：java,rust）
+  AUTO_PUSH: true
+  THEME: ""               # 空欄＝全テーマ生成
+  ANIMATION: "load"       # アニメーション（オプション）
+  DURATION: 3
+  
