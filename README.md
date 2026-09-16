@@ -1,7 +1,9 @@
 ### coding, hacking, tinkering!
-
+<!--
 [![Naohiro2g's GitHub stats](https://github-stats-extended.vercel.app/api?username=Naohiro2g)](https://github.com/stats-organization/github-stats-extended)
+-->
 
+https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naohiro2g&theme=github&animation=load
 
 <!--
 https://github.com/anuraghazra/github-readme-stats
